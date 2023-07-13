@@ -1,10 +1,10 @@
 function toss(){
-    const choices = ['head', 'tail'];
+    const choices = ['HEAD', 'TAIL'];
     const choice = choices[Math.floor(Math.random() *2)];
     document.getElementById('result').innerText= choice;
 
 }
-var choices=['Sawan','Sneha','Anshul','Harsh','Jatin','Diyansh','Kishu','Param','Amogh','Aarya','Garvit'];
+var choices=['Sawan','Sneha','Anshul','Harsh','Jatin','Divyansh','Kishu','Param','Amogh','Aarya','Garvit'];
 var pickedName=[];
 function player(){
     if(choices.length ===0){
