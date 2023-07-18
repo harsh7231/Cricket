@@ -4,7 +4,7 @@ function toss(){
     document.getElementById('result').innerText= choice;
 
 }
-var choices=['Sawan','Sneha','Anshul','Harsh','Amogh','Kishu','Jatin','Divyansh,'Param','Aarya'];
+var choices=['Sawan','Sneha','Anshul','Harsh','Amogh','Kishu','Jatin','Divyansh,'Param','Aarya','Garvit'];
 var pickedName=[];
 function player(){
     if(choices.length ===0){
