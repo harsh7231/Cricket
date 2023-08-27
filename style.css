@@ -3,13 +3,13 @@ body{
 }
 #toss{
     position: absolute;
-    width: 300px;
-height: 40px;
+    width: 500px;
+height: 120px;
 top: 500px;
 left: 250px;
-border-radius: 10px;
-border: 2px solid #FFFFFF;
-font-size: 21px;
+border-radius: 30px;
+border: 6px solid #FFFFFF;
+font-size: 63px;
 font-weight: 600;
 line-height: 25px;
 letter-spacing: 0.1em;
@@ -19,13 +19,13 @@ background-color:rgb(0, 0, 0) ;
 }
 #player{
     position: absolute;
-    width: 300px;
-height: 40px;
-top: 640px;
+    width: 500px;
+height: 120px;
+top: 720px;
 left: 250px;
-border-radius: 10px;
-border: 2px solid #FFFFFF;
-font-size: 21px;
+border-radius: 30px;
+border: 6px solid #FFFFFF;
+font-size:63px;
 font-weight: 600;
 line-height: 25px;
 letter-spacing: 0.1em;
@@ -35,11 +35,11 @@ background-color:rgb(0, 0, 0) ;
 }
 #result{
     position: absolute;
-    width: 300px;
-height: 40px;
-top: 780px;
+    width: 500px;
+height: 120px;
+top: 940px;
 left: 250px;
-font-size: 40px;
+font-size: 120px;
 font-weight: 700;
 line-height: 80px;
 letter-spacing: 0em;
@@ -48,13 +48,13 @@ color: #FFFFFF;
 }
 #reset{
     position: absolute;
-    width: 300px;
-height: 40px;
-top: 920px;
+    width: 500px;
+height: 120px;
+top: 1160px;
 left: 250px;
-border-radius: 10px;
-border: 2px solid #FFFFFF;
-font-size: 21px;
+border-radius: 30px;
+border: 6px solid #FFFFFF;
+font-size: 63px;
 font-weight: 600;
 line-height: 25px;
 letter-spacing: 0.1em;
