@@ -1,14 +1,14 @@
 body{
     background: rgb(0, 0, 0);
-    height:400px;
-    width:200px;
+    height:2000px;
+    width:2000px;
 }
 #toss{
     position: absolute;
-    width: 300px;
-height: 40px;
-top: 75px;
-left: 75px;
+    width: 1300px;
+height: 200px;
+top: 500px;
+left: 250px;
 border-radius: 10px;
 border: 2px solid #FFFFFF;
 font-size: 21px;
@@ -21,10 +21,10 @@ background-color:rgb(0, 0, 0) ;
 }
 #player{
     position: absolute;
-    width: 300px;
-height: 40px;
-top: 190px;
-left: 75px;
+    width: 1300px;
+height: 200px;
+top: 900px;
+left: 250px;
 border-radius: 10px;
 border: 2px solid #FFFFFF;
 font-size: 21px;
@@ -37,10 +37,10 @@ background-color:rgb(0, 0, 0) ;
 }
 #result{
     position: absolute;
-    width: 400px;
-height: 40px;
-top: 305px;
-left: 75px;
+    width: 1300px;
+height: 200px;
+top: 1200px;
+left: 250px;
 font-size: 40px;
 font-weight: 700;
 line-height: 80px;
@@ -50,10 +50,10 @@ color: #FFFFFF;
 }
 #reset{
     position: absolute;
-    width: 300px;
-height: 40px;
-top: 420px;
-left: 75px;
+    width: 1300px;
+height: 200px;
+top: 1500px;
+left: 250px;
 border-radius: 10px;
 border: 2px solid #FFFFFF;
 font-size: 21px;
