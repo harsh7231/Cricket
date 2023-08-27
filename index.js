@@ -1,6 +1,6 @@
 function toss(){
-    const choices = ['HEAD', 'TAIL'];
-    const choice = choices[Math.floor(Math.random() *2)];
+    const choices = ['TAIL', 'HEAD','TAIL'];
+    const choice = choices[Math.floor(Math.random() *3)];
     document.getElementById('result').innerText= choice;
 
 }
